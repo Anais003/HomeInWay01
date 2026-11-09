@@ -1,0 +1,6 @@
+{
+  "name": "HomeInWay — Planificación Financiera y Habitacional",
+  "description": "Plataforma de planificación financiera y habitacional para jóvenes profesionales y familias en camino a su primera vivienda, con sistema visual Bci y Asistente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
